@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 15,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "reactSnippets.settings.prettierEnabled": false,
+  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.useTabs": true
+}
